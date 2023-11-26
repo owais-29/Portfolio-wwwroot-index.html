@@ -1,0 +1,7 @@
+E:\External Local disk E\ASP.NET\portfolio0\obj\Release\net8.0\PubTmp\Out\portfolio0.exe
+E:\External Local disk E\ASP.NET\portfolio0\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+E:\External Local disk E\ASP.NET\portfolio0\obj\Release\net8.0\PubTmp\Out\appsettings.json
+E:\External Local disk E\ASP.NET\portfolio0\obj\Release\net8.0\PubTmp\Out\portfolio0.dll
+E:\External Local disk E\ASP.NET\portfolio0\obj\Release\net8.0\PubTmp\Out\portfolio0.deps.json
+E:\External Local disk E\ASP.NET\portfolio0\obj\Release\net8.0\PubTmp\Out\portfolio0.runtimeconfig.json
+E:\External Local disk E\ASP.NET\portfolio0\obj\Release\net8.0\PubTmp\Out\portfolio0.pdb
